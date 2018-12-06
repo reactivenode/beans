@@ -5,5 +5,6 @@
 import { Button } from './Button';
 import { Card } from './Card';
 import { Row, Col } from './Grid';
+import { ImageCard } from './ImageCard';
 
-export { Button, Card, Row, Col };
+export { Button, Card, Row, Col, ImageCard };
